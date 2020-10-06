@@ -1,9 +1,8 @@
-# projeto-instagram
-Login page cover - Instagram
+# Instagram Project
+_Login page cover - Instagram_
 
-_from_
-
-# Digital Innovation One
+_from_ 
+### Digital Innovation One
 
 _Course_
 React Web Developer
